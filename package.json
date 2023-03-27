@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://joseph-bautista.github.io/portfolio"
+    "homepage": "https://joseph-bautista.github.io/josephbautista"
   },
   "eslintConfig": {
     "extends": [
