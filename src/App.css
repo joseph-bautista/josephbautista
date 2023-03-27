@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+#container {
+  min-height: 100vh;
+	/*background-color: green;*/
+	/* The image used */
+  background-image: url("../src/components/assets/images/bg2.jpeg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
