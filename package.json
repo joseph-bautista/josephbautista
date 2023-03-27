@@ -13,7 +13,7 @@
     "react-router-dom": "^6.9.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://joseph-bautista.github.io/portfolio"
+    "homepage": "https://joseph-bautista.github.io/josephbautista"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -45,5 +45,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://joseph-bautista.github.io/portfolio"
+  "homepage": "https://joseph-bautista.github.io/josephbautista"
 }
