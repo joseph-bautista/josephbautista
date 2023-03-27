@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a9da1035.css",
+    "main.js": "/portfolio/static/js/main.8fd6a494.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/travel_malaysia.jpg": "/portfolio/static/media/travel_malaysia.db5ac23cb0ba0b12661d.jpg",
+    "static/media/me2.jpg": "/portfolio/static/media/me2.0b3e2861c1715f2ebabb.jpg",
+    "static/media/paradise_metaworld.png": "/portfolio/static/media/paradise_metaworld.8b7a2532fa98e10e31dc.png",
+    "static/media/sooly.svg": "/portfolio/static/media/sooly.c701f88ed8f269eabfddfc4a603b9a29.svg",
+    "static/media/bg2.jpeg": "/portfolio/static/media/bg2.d8de4c5d3ff5ad3d4680.jpeg",
+    "static/media/dingdong.png": "/portfolio/static/media/dingdong.7c618974db481b9d7d83.png",
+    "static/media/clickeat.jpg": "/portfolio/static/media/clickeat.1e917ee9c4e34845f6ee.jpg",
+    "static/media/adex.png": "/portfolio/static/media/adex.538708ef583f38986d1d.png",
+    "static/media/boox.png": "/portfolio/static/media/boox.5b4cca63c8dd8b20f73e.png",
+    "static/media/equify.png": "/portfolio/static/media/equify.e74f8030bc9211b5b6b4.png",
+    "static/media/react.png": "/portfolio/static/media/react.89996b225745a7b82cf2.png",
+    "index.html": "/portfolio/index.html",
+    "main.a9da1035.css.map": "/portfolio/static/css/main.a9da1035.css.map",
+    "main.8fd6a494.js.map": "/portfolio/static/js/main.8fd6a494.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9da1035.css",
+    "static/js/main.8fd6a494.js"
+  ]
+}
