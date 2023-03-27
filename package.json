@@ -2,7 +2,6 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://joseph-bautista.github.io/portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -13,7 +12,8 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.9.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage": "https://joseph-bautista.github.io/portfolio"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -21,7 +21,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "homepage": "https://joseph-bautista.github.io/portfolio"
   },
   "eslintConfig": {
     "extends": [
@@ -43,5 +44,6 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "homepage": "https://joseph-bautista.github.io/portfolio"
 }
