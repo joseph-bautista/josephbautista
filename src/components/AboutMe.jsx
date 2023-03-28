@@ -17,7 +17,7 @@ const AboutMe = () => {
                         Joseph Bautista
                     </h2>
                     <h6 id="job">Software Developer</h6>
-                    <p className="expound">
+                    <p className="expound"> 
                         Hi, I am a software developer based in the Philippines. I have more than 5 years working in software development industry. I worked as Full Stack Web Application Developer for more than 4 years and, right now, I am working remotely as Back End Engineer at <a href="https://xctuality.com" target="_blank"><strong>Xctuality Lte. Ptd.</strong></a>, a Singapore-based tech-start up, for more than a year until present. I believe that studying is a lifetime commitment, that's why during my free time I am exploring new things in tech such as blockchain technology, cryptocurrency and Artificial Intelligence.
                     </p>
                     <p className="expound">
