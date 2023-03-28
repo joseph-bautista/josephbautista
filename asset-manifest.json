@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/josephbautista/static/css/main.182e87ea.css",
+    "main.js": "/josephbautista/static/js/main.45db6c6c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/josephbautista/static/js/787.1ed0c42c.chunk.js",
+    "static/media/travel_malaysia.jpg": "/josephbautista/static/media/travel_malaysia.db5ac23cb0ba0b12661d.jpg",
+    "static/media/me2.jpg": "/josephbautista/static/media/me2.0b3e2861c1715f2ebabb.jpg",
+    "static/media/paradise_metaworld.png": "/josephbautista/static/media/paradise_metaworld.8b7a2532fa98e10e31dc.png",
+    "static/media/sooly.svg": "/josephbautista/static/media/sooly.c701f88ed8f269eabfddfc4a603b9a29.svg",
+    "static/media/bg2.jpeg": "/josephbautista/static/media/bg2.d8de4c5d3ff5ad3d4680.jpeg",
+    "static/media/dingdong.png": "/josephbautista/static/media/dingdong.7c618974db481b9d7d83.png",
+    "static/media/clickeat.jpg": "/josephbautista/static/media/clickeat.1e917ee9c4e34845f6ee.jpg",
+    "static/media/adex.png": "/josephbautista/static/media/adex.538708ef583f38986d1d.png",
+    "static/media/boox.png": "/josephbautista/static/media/boox.5b4cca63c8dd8b20f73e.png",
+    "static/media/equify.png": "/josephbautista/static/media/equify.e74f8030bc9211b5b6b4.png",
+    "static/media/react.png": "/josephbautista/static/media/react.89996b225745a7b82cf2.png",
+    "index.html": "/josephbautista/index.html",
+    "main.182e87ea.css.map": "/josephbautista/static/css/main.182e87ea.css.map",
+    "main.45db6c6c.js.map": "/josephbautista/static/js/main.45db6c6c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/josephbautista/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.182e87ea.css",
+    "static/js/main.45db6c6c.js"
+  ]
+}
