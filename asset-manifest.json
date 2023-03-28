@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/josephbautista/static/css/main.182e87ea.css",
-    "main.js": "/josephbautista/static/js/main.45db6c6c.js",
+    "main.js": "/josephbautista/static/js/main.e00245c6.js",
     "static/js/787.1ed0c42c.chunk.js": "/josephbautista/static/js/787.1ed0c42c.chunk.js",
     "static/media/travel_malaysia.jpg": "/josephbautista/static/media/travel_malaysia.db5ac23cb0ba0b12661d.jpg",
     "static/media/me2.jpg": "/josephbautista/static/media/me2.0b3e2861c1715f2ebabb.jpg",
@@ -16,11 +16,11 @@
     "static/media/react.png": "/josephbautista/static/media/react.89996b225745a7b82cf2.png",
     "index.html": "/josephbautista/index.html",
     "main.182e87ea.css.map": "/josephbautista/static/css/main.182e87ea.css.map",
-    "main.45db6c6c.js.map": "/josephbautista/static/js/main.45db6c6c.js.map",
+    "main.e00245c6.js.map": "/josephbautista/static/js/main.e00245c6.js.map",
     "787.1ed0c42c.chunk.js.map": "/josephbautista/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.182e87ea.css",
-    "static/js/main.45db6c6c.js"
+    "static/js/main.e00245c6.js"
   ]
 }
