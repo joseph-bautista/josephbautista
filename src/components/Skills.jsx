@@ -9,103 +9,103 @@ const Skills = () => {
             <div className="all_skills">
                 <div className="skill">
                     <img src={require("./assets/images/skills/html.png")} alt="" />
-                    <h6>HTML</h6>
-                    <p>5+ years experience</p>
+                    <h4>HTML</h4>
+                    {/* <p>5+ years experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/css.png")} alt="" />
-                    <h6>CSS</h6>
-                    <p>5+ years experience</p>
+                    <h4>CSS</h4>
+                    {/* <p>5+ years experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/javascript.png")} alt="" />
-                    <h6>Javascript</h6>
-                    <p>5+ years experience</p>
+                    <h4>Javascript</h4>
+                    {/* <p>5+ years experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/jquery.png")} alt="" />
-                    <h6>Jquery</h6>
-                    <p>5+ years experience</p>
+                    <h4>Jquery</h4>
+                    {/* <p>5+ years experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/php.png")} alt="" />
-                    <h6>PHP</h6>
-                    <p>5+ years experience</p>
+                    <h4>PHP</h4>
+                    {/* <p>5+ years experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/laravel.png")} alt="" />
-                    <h6>Laravel</h6>
-                    <p>5+ years experience</p>
+                    <h4>Laravel</h4>
+                    {/* <p>5+ years experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/bootstrap.png")} alt="" />
-                    <h6>Bootstrap</h6>
-                    <p>5+ years experience</p>
+                    <h4>Bootstrap</h4>
+                    {/* <p>5+ years experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/mysql.png")} alt="" />
-                    <h6>MySQL</h6>
-                    <p>5+ years experience</p>
+                    <h4>MySQL</h4>
+                    {/* <p>5+ years experience</p> */}
                 </div>
-                <div className="skill">
+                {/* <div className="skill">
                     <img src={require("./assets/images/skills/apache.png")} alt="" />
-                    <h6>Apache</h6>
+                    <h4>Apache</h4>
                     <p>5+ years experience</p>
-                </div>
+                </div> */}
                 <div className="skill">
                     <img src={require("./assets/images/skills/git.png")} alt="" />
-                    <h6>Git</h6>
-                    <p>5+ years experience</p>
+                    <h4>Git</h4>
+                    {/* <p>5+ years experience</p> */}
                 </div>
-                <div className="skill">
+                {/* <div className="skill">
                     <img src={require("./assets/images/skills/linux.png")} alt="" />
-                    <h6>Linux</h6>
+                    <h4>Linux</h4>
                     <p>4+ years experience</p>
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/nginx.png")} alt="" />
-                    <h6>Nginx</h6>
+                    <h4>Nginx</h4>
                     <p>3+ years experience</p>
-                </div>
+                </div> */}
                 <div className="skill">
                     <img src={require("./assets/images/skills/docker.png")} alt="" />
-                    <h6>Docker</h6>
-                    <p>1+ years experience</p>
+                    <h4>Docker</h4>
+                    {/* <p>1+ years experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/postman.png")} alt="" />
-                    <h6>Postman</h6>
-                    <p>1+ years experience</p>
+                    <h4>Postman</h4>
+                    {/* <p>1+ years experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/python.png")} alt="" />
-                    <h6>Python</h6>
-                    <p>Less than a year of experience</p>
+                    <h4>Python</h4>
+                    {/* <p>Less than a year of experience</p> */}
                 </div>
-                <div className="skill">
+                {/* <div className="skill">
                     <img src={require("./assets/images/skills/rails.png")} alt="" />
-                    <h6>Rails</h6>
+                    <h4>Rails</h4>
                     <p>Less than a year of experience</p>
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/ruby.png")} alt="" />
-                    <h6>Ruby</h6>
+                    <h4>Ruby</h4>
                     <p>Less than a year of experience</p>
-                </div>
+                </div> */}
                 <div className="skill">
                     <img src={require("./assets/images/skills/vue.png")} alt="" />
-                    <h6>Vue</h6>
-                    <p>Less than a year of experience</p>
+                    <h4>Vue</h4>
+                    {/* <p>Less than a year of experience</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/react.png")} alt="" />
-                    <h6>React</h6>
-                    <p>Newly acquired skill</p>
+                    <h4>React</h4>
+                    {/* <p>Newly acquired skill</p> */}
                 </div>
                 <div className="skill">
                     <img src={require("./assets/images/skills/node.png")} alt="" />
-                    <h6>Node</h6>
-                    <p>Newly acquired skill</p>
+                    <h4>Node</h4>
+                    {/* <p>Newly acquired skill</p> */}
                 </div>
             </div>
         </div>
